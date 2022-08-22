@@ -49,6 +49,10 @@ function twoarraysmedian (x, y){
 }
 
 console.log(twoarraysmedian(nums1, nums2))
+//The array is 1, 2, 3 and answer is 2
 console.log(twoarraysmedian(nums3, nums4))
+//The array is 1, 2, 3, 4 and answer is 2.5
 console.log(twoarraysmedian(nums5, nums6))
+//The array is 2, 3, 3, 4, 5, 5, 6, 8, 9 and answer is 5
 console.log(twoarraysmedian(nums7, nums8))
+//The array is: 2,4,6,8,10,12,14,16 and answer is 9
